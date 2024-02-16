@@ -45,21 +45,21 @@ public class LocationTrigger : MonoBehaviour
     List<string> nomeLocais = new List<string>()
     {
         "Financeiro",
-        "Ambulat�rio",
-        "Bloco Cir�rgico",
+        "Ambulatório",
+        "Bloco Cirúrgico",
         "Posto de Enfermagem",
-        "Laborat�rio",
+        "Laboratório",
         "Oncologia",
-        "Recep��o",
+        "Recepção",
         "Pronto Socorro",
         "Lanchonete",
         "UTI",
         "Enfermaria",
         "Diretoria",
         "Radiologia",
-        "Farm�cia",
+        "Farmácia",
         "Pediatria",
-        "Repouso M�dico"
+        "Repouso Médico"
     };
 
 
